@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Full Stack Developer
+.Net Full Stack Developer
 
 
 ## 🌐 Socials:
